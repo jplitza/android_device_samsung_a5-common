@@ -354,6 +354,7 @@ ___________________________________________________
     <Include href="media_codecs_google_video_le.xml" />
     <Include href="media_codecs_google_audio.xml" />
     <Include href="media_codecs_google_telephony.xml" />
+    <Include href="media_codecs_ffmpeg.xml" />
     <Decoders>
         <!-- 
          Samsung sw hevc codec was located to google sw hevc codec
